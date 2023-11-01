@@ -1,1 +1,1 @@
-# project
+Setting up repository for project
